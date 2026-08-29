@@ -1,0 +1,6 @@
+{
+  "name": "WESAM AI",
+  "description": "An omnipotent sovereign intelligence platform with 1000X multi-model reasoning matrix, Nano Banana Pro image generation engine, document analysis, and anti-hallucination guard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
